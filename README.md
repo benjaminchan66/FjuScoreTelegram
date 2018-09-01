@@ -27,6 +27,7 @@ http://chromedriver.chromium.org/downloads
 
 6. 自動定時執行Python程式的方法
 當你成功執行"FjuScoreTelegram.py”一次以後，就可以進行這個步驟，自動定時執行Python程式的方法有幾種，Windows系統可以用[工作排程]去執行，面Mac系統則是用[crontab]和[launchctl]，教學方法下以用下面的連結，或是自己去Google更多教學； 我個人是選擇用crontab。
+
 工作排程: https://dotblogs.com.tw/what_s_note/2017/02/14/113920
 launchctl: https://blog.csdn.net/clwwlc/article/details/79849686
 crontab:
